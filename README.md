@@ -15,7 +15,7 @@ I'm working at the company that i founded back in 2016 ([Farbenfroh - German wor
 
 ## Want to get in touch? 📮
 You can reach me via
-- [My company's website](https://sei-farbenfroh.de/author/oliver/)
+- [My company's website](https://sei-farbenfroh.de/author/oliver/?ref=github-profile-oguera)
 - [LinkedIn](https://de.linkedin.com/in/oliver-g%C3%BCra-1b0b83193)
 
 
